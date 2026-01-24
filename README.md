@@ -6,8 +6,6 @@
 
 > A machine learning project predicting passenger survival on the Titanic using historical data and multiple classification algorithms.
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/300px-RMS_Titanic_3.jpg)
-
 ---
 
 ## 📋 Table of Contents
@@ -329,9 +327,9 @@ Potential enhancements for this project:
 
 **Amanda Caroline Young**
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐱 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 📧 Email: amandayoung0907@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/amanda-caroline-young-168141266/
+- 🐱 GitHub: https://github.com/amandacodess
 
 ---
 
