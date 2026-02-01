@@ -5,4 +5,5 @@ matplotlib
 seaborn
 kagglehub
 jupyter
-EOF
+streamlit
+pillow
