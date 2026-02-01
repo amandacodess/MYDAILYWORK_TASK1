@@ -9,8 +9,6 @@
 
 ## 🌐 **[Try the Live Interactive App →](https://mydailyworktask1-data-science-internship.streamlit.app)**
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/300px-RMS_Titanic_3.jpg)
-
 ---
 
 ## 📋 Table of Contents
