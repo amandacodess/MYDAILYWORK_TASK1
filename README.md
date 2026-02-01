@@ -2,14 +2,20 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > A machine learning project predicting passenger survival on the Titanic using historical data and multiple classification algorithms.
+
+## 🌐 **[Try the Live Interactive App →](https://mydailyworktask1-data-science-internship.streamlit.app)**
+
+![Titanic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/300px-RMS_Titanic_3.jpg)
 
 ---
 
 ## 📋 Table of Contents
 
+- [Live Demo](#live-demo)
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Methodology](#methodology)
@@ -22,6 +28,23 @@
 - [Project Structure](#project-structure)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
+
+---
+
+## 🌟 Live Demo
+
+**Experience the model in action!**
+
+👉 **[Launch Interactive App](https://mydailyworktask1-data-science-internship.streamlit.app)** 👈
+
+The web application allows you to:
+- 🎯 Input custom passenger details
+- 📊 Get real-time survival predictions
+- 📈 View interactive data visualizations
+- 💡 Understand model decision-making
+- 🔍 Explore survival patterns by gender, class, and age
+
+**No installation required** - runs entirely in your browser!
 
 ---
 
@@ -259,18 +282,22 @@ print(f"Predicted survival: {'Yes' if prediction[0] == 1 else 'No'}")
 ## 💻 Technologies Used
 
 ### Programming & Libraries
-- **Python 3.8+** - Core programming language
+- **Python 3.11+** - Core programming language
 - **pandas** - Data manipulation and analysis
 - **NumPy** - Numerical computations
 - **scikit-learn** - Machine learning models and evaluation
 - **matplotlib** - Data visualization
 - **seaborn** - Statistical visualizations
-- **kagglehub** - Dataset downloading
+
+### Web Application
+- **Streamlit** - Interactive web application framework
+- **Pillow** - Image processing for visualizations
 
 ### Tools
 - **Jupyter Notebook** - Interactive development
 - **Git** - Version control
 - **GitHub** - Code hosting
+- **Streamlit Cloud** - Application deployment
 
 ---
 
@@ -279,6 +306,7 @@ print(f"Predicted survival: {'Yes' if prediction[0] == 1 else 'No'}")
 ```
 MYDAILYWORK_Task1/
 │
+├── streamlit-app.py                # Interactive web application
 ├── titanic_analysis.ipynb          # Main analysis notebook
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Project documentation (this file)
@@ -301,6 +329,7 @@ MYDAILYWORK_Task1/
 
 Potential enhancements for this project:
 
+- [x] **Interactive Web Application** - Deploy Streamlit app for real-time predictions ✅
 - [ ] **Feature Engineering**
   - Extract titles from names (Mr., Mrs., Miss, etc.)
   - Create family size categories
@@ -316,10 +345,11 @@ Potential enhancements for this project:
   - Handle class imbalance with SMOTE
   - Implement stacking ensemble
 
-- [ ] **Deployment**
-  - Create web app with Streamlit/Flask
-  - Deploy model as REST API
-  - Build interactive dashboard
+- [ ] **Enhanced Deployment**
+  - Add user authentication
+  - Implement model versioning
+  - Create comprehensive API documentation
+  - Add batch prediction capability
 
 ---
 
@@ -327,9 +357,9 @@ Potential enhancements for this project:
 
 **Amanda Caroline Young**
 
-- 📧 Email: amandayoung0907@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/amanda-caroline-young-168141266/
-- 🐱 GitHub: https://github.com/amandacodess
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/yourprofile)
+- 🐱 GitHub: [@amandacodess](https://github.com/amandacodess)
+- 🌐 Live Demo: [Titanic Predictor App](https://mydailyworktask1-data-science-internship.streamlit.app)
 
 ---
 
