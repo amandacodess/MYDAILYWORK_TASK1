@@ -1,11 +1,8 @@
-@"
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
-kagglehub
-streamlit>=1.28.0
+streamlit
 pillow
 altair<5
-"@ | Out-File -FilePath requirements.txt -Encoding utf8
